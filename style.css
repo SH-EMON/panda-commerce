@@ -1,0 +1,45 @@
+.slider_bg{
+    background-color: #fceae8;
+    padding:15px;
+}
+.buy_now{
+    background-color: #ED327C;
+    color:#fff;
+    padding:10px 20px;
+    border-radius:10px;
+    cursor:pointer;
+}
+.price{
+    color:#ED327C;
+}
+.container{
+    margin-bottom:100px;
+}
+.cat1{
+  background-color:#F2B028;
+}
+.cat1 h1, .cat2 h1, .cat3 h1{
+    color:#fff;
+}
+.cat2{
+    background-color:#EB3A85;
+}
+.cat3{
+    background-color: #3636F9;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 20px;
+}
+.card{
+    border:none;
+    box-shadow:10px 10px 10px lightgray;
+}
+#contact p{
+    color:gray;
+}
+input{
+    margin-bottom:5px;
+}
+footer{
+    text-align:center;
+}
